@@ -1,0 +1,54 @@
+{
+  "name": "first-react-application",
+  "version": "1.0.0",
+  "description": "first application",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@mui/material": "^5.15.19",
+    "@nivo/bump": "^0.87.0",
+    "@nivo/core": "^0.87.0",
+    "ag-chart": "^0.0.1",
+    "ag-charts-react": "^10.0.0",
+    "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.3",
+    "d3": "^7.9.0",
+    "d3-shape": "^3.2.0",
+    "echarts-for-react": "^3.0.2",
+    "formik": "^2.4.6",
+    "highcharts": "^11.4.1",
+    "json-loader": "^0.5.7",
+    "json-server": "^1.0.0-alpha.23",
+    "node.js": "^0.0.1-security",
+    "plotly.js-dist": "^2.32.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-script": "^2.0.5",
+    "react-scripts": "^5.0.1",
+    "yarn": "^1.22.22",
+    "yup": "^1.4.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "install-vscode-extensions": "^1.0.0",
+    "react-router-dom": "^6.22.3"
+  }
+}
