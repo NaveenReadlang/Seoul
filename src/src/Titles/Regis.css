@@ -1,0 +1,72 @@
+*
+{
+    margin: 7px;
+    padding: 7px;
+}
+
+body{
+    font-size: 14px;
+    background: rgb(17, 2, 79);
+}
+
+
+.rootFile {
+    background: rgb(255, 255, 255);
+    border-radius: 40px 40px 40px 40px;
+    width: 600px;
+    padding: 5px;
+    margin: 50px auto 0;
+    border-top: 5px solid rgb(255, 106, 0);
+    box-shadow: 0 0 25px rgb(223, 241, 245);
+    
+}
+.rootFile h4 
+{
+    margin: 30px;
+    font-size: 30px;
+    line-height: 10px;
+    padding: 0 0 0 0;
+
+}
+
+.input-name
+{
+    width: 100px;
+    padding: 0px 0px 0px 50px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    position: absolute;
+    margin: 0px auto 0;
+    text-align: 20px;
+}
+.input-last
+{
+    width: 100px;
+    padding: 0px 0px 0px 100px ;
+    position: relative;
+    margin: 0px auto 0;
+    text-align: 20px;
+}
+.input-father
+{
+    width: 100px;
+    padding: 0px 0 8px 50px;
+    position: absolute;
+    margin: 0px auto 0;
+    text-align: 20px;
+}
+.input-address
+{
+    width: 50px;
+    padding: 0px 0 8px 100px;
+    position: relative;
+    margin: 0px auto 0;
+    text-align: 20px;
+}
+.input-date
+{
+    width: 60px;
+    padding: 0px 0 8px 50px;
+    margin: 20px auto 0;
+    position: absolute;
+}
